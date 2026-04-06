@@ -1,1 +1,1 @@
-Python - if/else, loops, functions
+Project about Python loops and functions
