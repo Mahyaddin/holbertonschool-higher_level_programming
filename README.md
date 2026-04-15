@@ -1,1 +1,1 @@
-# Python - Exceptions
+# SQL Introduction project
