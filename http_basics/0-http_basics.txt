@@ -1,3 +1,1 @@
-HTTP vs HTTPS: HTTPS uses SSL/TLS for encryption.
-Common Methods: GET (Retrieve), POST (Submit), PUT (Update), DELETE (Remove).
-Status Codes: 200 (OK), 404 (Not Found), 500 (Server Error).
+HTTP is plaintext, HTTPS is encrypted via SSL/TLS.
